@@ -7,12 +7,12 @@
     "bio": "My name is Rodrigo, I'm a Full Stack ReactJS/Angular Developer. Currently I'm working at Blue Yonder",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "rod.gc@hotmail.com",
-    "phone": "",
+    "phone": "811 - 781 - XXXX",
     "address": {
-      "street": "",
+      "street": "123 Fake Lane",
       "city": "Monterrey",
       "state": "Nuevo Leon",
-      "zip": ""
+      "zip": "11111"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "http://timbakerdev.com",
@@ -103,10 +103,28 @@
   "portfolio": {
     "projects": [
       {
-        "title": "",
-        "category": "",
-        "image": "",
-        "url": ""
+        "title": "WhatsApp Clone",
+        "category": "WhatsApp Clone built with ReactJs & Firebase",
+        "image": "whatsapp-clone.png",
+        "url": "https://nutneku-whatsapp-clone.netlify.app/"
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "Amazon Clone built with ReactJs & Firebase",
+        "image": "amazon-clone.png",
+        "url": "https://clone-c402a.web.app/"
+      },
+      {
+        "title": "Island Generator",
+        "category": "Island Generator built with ReactJs",
+        "image": "island-generator.png",
+        "url": "https://nutneku-island-generator.netlify.app/"
+      },
+      {
+        "title": "Shopping Cart",
+        "category": "Shopping Cart built with ReactJs",
+        "image": "shopping-cart-reactjs.png",
+        "url": "https://nutneku-shipping-cart.netlify.app/"
       }
     ]
   },
