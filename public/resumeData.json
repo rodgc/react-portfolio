@@ -103,6 +103,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Island Generator",
+        "category": "Island Generator built with ReactJs",
+        "image": "island-generator.png",
+        "url": "https://nutneku-island-generator.netlify.app/"
+      },
+      {
         "title": "WhatsApp Clone",
         "category": "WhatsApp Clone built with ReactJs & Firebase",
         "image": "whatsapp-clone.png",
@@ -115,10 +121,10 @@
         "url": "https://clone-c402a.web.app/"
       },
       {
-        "title": "Island Generator",
-        "category": "Island Generator built with ReactJs",
-        "image": "island-generator.png",
-        "url": "https://nutneku-island-generator.netlify.app/"
+        "title": "Instagram Reels Clone",
+        "category": "Instagram Reels Clone built with ReactJs & Firebase",
+        "image": "instagram-reels-clone.png",
+        "url": "https://instagram-reels-clone-bf37d.web.app/"
       },
       {
         "title": "Shopping Cart",
