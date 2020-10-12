@@ -4,7 +4,7 @@
     "occupation": "Sr. Software Engineer",
     "description": "Full Stack React/Angular Developer",
     "image": "square.jpg",
-    "bio": "My name is Rodrigo, I'm a Full Stack ReactJS/Angular Developer. Currently I'm working at Blue Yonder",
+    "bio": "My name is Rodrigo, I'm a Full Stack ReactJS/Angular Developer.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "rod.gc@hotmail.com",
     "phone": "811 - 781 - XXXX",
@@ -14,8 +14,8 @@
       "state": "Nuevo Leon",
       "zip": "11111"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/0BwuRpCpZiRhcVkdnc21INGdKTzQ/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
