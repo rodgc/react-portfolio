@@ -51,15 +51,9 @@
     ],
     "work": [
       {
-        "company": "Blue Yonder",
-        "title": "Full Stack Developer",
-        "years": "August 2020 - Present",
-        "description": ""
-      },
-      {
         "company": "Accenture",
         "title": "Sr Frontend Engineer",
-        "years": "September 2019 - August 2020",
+        "years": "September 2019 - Present",
         "description": "Build an application with React, NodeJS and Express technologies"
       },
       {
