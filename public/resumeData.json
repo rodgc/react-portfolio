@@ -131,6 +131,12 @@
         "category": "Shopping Cart built with ReactJs",
         "image": "shopping-cart-reactjs.png",
         "url": "https://nutneku-shipping-cart.netlify.app/"
+      },
+      {
+        "title": "Pokedex",
+        "category": "Pokedex built with ReactJs",
+        "image": "pokedex-challenge.png",
+        "url": "https://nutneku-pokedex-challenge.netlify.app/"
       }
     ]
   },
