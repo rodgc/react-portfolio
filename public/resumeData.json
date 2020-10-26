@@ -131,6 +131,12 @@
         "category": "Pokedex built with ReactJs",
         "image": "pokedex-challenge.png",
         "url": "https://nutneku-pokedex-challenge.netlify.app/"
+      },
+      {
+        "title": "Covid Tracker",
+        "category": "Covid Tracker built with ReactJs",
+        "image": "covid-tracker.png",
+        "url": "https://nutneku-covid-tracker.netlify.app"
       }
     ]
   },
