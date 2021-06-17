@@ -121,6 +121,12 @@
         "url": "https://instagram-reels-clone-bf37d.web.app/"
       },
       {
+        "title": "Slack Clone",
+        "category": "Slack Clone built with ReactJs & Firebase",
+        "image": "slack-clone.png",
+        "url": "https://nutneku-slack-clone.netlify.app/"
+      },
+      {
         "title": "Shopping Cart",
         "category": "Shopping Cart built with ReactJs",
         "image": "shopping-cart-reactjs.png",
