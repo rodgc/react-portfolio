@@ -139,6 +139,12 @@
         "url": "https://nutneku-pokedex-challenge.netlify.app/"
       },
       {
+        "title": "Dronocargo",
+        "category": "Delivery dashboard built with ReactJs",
+        "image": "dronocargo.png",
+        "url": "https://nutneku-dronocargo.netlify.app/"
+      },
+      {
         "title": "Covid Tracker",
         "category": "Covid Tracker built with ReactJs",
         "image": "covid-tracker.png",
