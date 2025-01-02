@@ -70,15 +70,15 @@
       },
       {
         "name": "ReactJs",
-        "level": "80%"
+        "level": "90%"
       },
       {
         "name": "NodeJS",
-        "level": "70%"
+        "level": "80%"
       },
       {
         "name": "NestJs",
-        "level": "60%"
+        "level": "80%"
       },
       {
         "name": "Git",
@@ -86,7 +86,7 @@
       },
       {
         "name": "HTML5",
-        "level": "80%"
+        "level": "90%"
       },
       {
         "name": "CSS",
@@ -149,6 +149,12 @@
         "category": "Covid Tracker built with ReactJs",
         "image": "covid-tracker.png",
         "url": "https://nutneku-covid-tracker.netlify.app"
+      },
+      {
+        "title": "Movies App",
+        "category": "Movies App built with ReactJs",
+        "image": "movies-app.png",
+        "url": "https://nutneku-movies-app.netlify.app"
       }
     ]
   },
